@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Spotify Login
- * Description:       A shortcode based country wise spotify login plugin which allows you to create multiple spotify login buttons with different App Id and App Secret.
+ * Description:       A shortcode based spotify login plugin which allows you to create multiple spotify login buttons with different App Id and App Secret.
  * Version:           1.0.0
  * Author:            Ankita Tanti
  * Text Domain:       wp-spotify-login
